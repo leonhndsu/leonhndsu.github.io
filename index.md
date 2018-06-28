@@ -3,4 +3,4 @@ UNDER CONSTRUCTION
 
 I'm now putting texts wow wow wow wow
 
-[a relative link](leonhndsu.github.io/page1)
+[a relative link](https://leonhndsu.github.io/page1)
