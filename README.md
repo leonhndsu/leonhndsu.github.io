@@ -1,2 +1,2 @@
 # leonhndsu.github.io
-Personnel Website
+website
