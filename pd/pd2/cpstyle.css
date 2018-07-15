@@ -1,0 +1,81 @@
+.cp
+{
+    position: fixed;
+    z-index: 1;
+
+
+}
+.tsize
+{
+    width:250px;
+    background: rgba(51, 204, 255, 0.9);
+    padding: 25px;
+
+
+}
+
+
+.cpHead
+{
+    text-align: center;
+    font-size: 25px;
+    display: block;
+
+}
+
+.miniCH
+{
+
+    padding: 50px;
+    overflow-y: scroll;
+    max-height: 680px;
+    font-size: 18px;
+
+
+}
+
+.miniCH a{
+    text-decoration: none;
+
+}
+
+.miniCH :hover{
+    color:green;
+    text-decoration: underline;
+
+}
+
+.miniCH :visited, :link{
+    color:black;
+
+}
+
+.collapsible {
+
+    background-color: dimgrey;
+    color: white;
+    cursor: pointer;
+
+    padding: 30px;
+    width: 250px;
+
+    border: none;
+    text-align: center;
+
+    outline: none;
+    font-size: 25px;
+}
+
+.active, .collapsible:hover {
+    background-color: darkgray;
+}
+
+.content {
+    display: none;
+    overflow: hidden;
+}
+
+::-webkit-scrollbar
+{
+    width:5px;
+}
