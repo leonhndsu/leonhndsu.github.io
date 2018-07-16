@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="animate.css" rel="stylesheet" type="text/css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <style>
+
+        .item
+        {
+            background-color: red;
+            width: 100px;
+            height: 100px;
+            margin:300px auto 0 auto;
+        }
+
+
+
+    </style>
+
+    <script>
+        $(document).ready(function(){
+            $(".item").click(function(){
+                $(".item").addClass(' animated shake');
+            });
+        });
+    </script>
+
+</head>
+<body>
+
+<div class="item"></div>
+<img src="book/awilleternal/awe.jpg" alt="awe">
+
+
+<h2>This is a heading</h2>
+
+<p>This is a paragraph.</p>
+<p>This is another paragraph.</p>
+
+<button>Click me to hide paragraphs</button>
+
+</body>
+</html>
