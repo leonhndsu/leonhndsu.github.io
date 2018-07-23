@@ -1,0 +1,47 @@
+.pg
+{
+
+    font-size: 25px;
+    background-color: white;
+
+
+}
+
+.bookname1
+{
+
+    font-size: 35px;
+
+    background-color: white;
+    padding: 36px;
+    border: solid;
+    text-align: center;
+    display: block;
+}
+
+.pg
+{
+    padding: 25px;
+    border: solid 1px;
+}
+
+.navi
+{
+
+    font-size: 35px;
+
+    background-color: white;
+    padding: 36px;
+    border: solid;
+    text-align: center;
+    display: block;
+}
+
+.navi a
+{
+    text-decoration: none;
+    padding: 25px;
+    border: solid;
+
+
+}

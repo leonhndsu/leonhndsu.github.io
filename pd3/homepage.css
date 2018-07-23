@@ -1,0 +1,115 @@
+
+
+/*TOP PICK*/
+
+.toppick
+{
+    background-color: lightgreen;
+}
+
+.top3
+{
+    background-color: lightgreen;
+}
+
+.toppicktext
+{
+    width: 250px;
+    height:150px;
+
+    font-size: 32px;
+
+    border: solid darkgreen;
+    background-color: white;
+
+
+}
+
+/*Top pick img*/
+
+.toppickimg ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+.toppickimg li
+{
+    float:left
+}
+
+.toppickimg li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 20px;
+    text-decoration: none;
+}
+
+.toppickimg li a:hover
+{
+    background-color: lightgrey;
+}
+
+.toppickimg img
+{
+    width: 250px;
+    height:350px;
+    border-radius: 10px;
+}
+
+/*Release/update*/
+
+.release
+{
+
+    display: block;
+    background-color: lightskyblue;
+
+
+}
+
+.releasetext
+{
+    border: solid black;
+    background-color: white;
+    font-size: 32px;
+
+}
+
+td{
+    border:solid;
+    width:25%;
+;
+}
+
+table{
+    width: 100%;
+}
+
+.latestupdate tr:nth-child(even)
+{
+
+    width: 100%;
+    background-color: lightgrey;
+
+}
+
+.latestupdate tr:nth-child(odd)
+{
+    background-color: white;
+}
+
+.latestupdate a
+{
+    text-decoration: none;
+
+}
+
+.latestupdate a:hover
+{
+    background-color: lightskyblue;
+}
