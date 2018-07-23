@@ -8,3 +8,7 @@ I'm now putting texts wow wow wow wow
 <br/>
 
 [Design Pattern #2](https://leonhndsu.github.io/pd/pd2/pd2.html)
+
+<br/>
+
+[Design Pattern #3](https://leonhndsu.github.io/pd3/pd3.html)
