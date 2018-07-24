@@ -12,3 +12,6 @@ I'm now putting texts wow wow wow wow
 <br/>
 
 [Design Pattern #3](https://leonhndsu.github.io/pd3/pd3.html)
+
+<br/>
+[Design Pattern #4](https://leonhndsu.github.io/pd4/pd4.html)
