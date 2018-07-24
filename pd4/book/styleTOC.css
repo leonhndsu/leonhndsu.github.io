@@ -1,0 +1,37 @@
+.toc
+{
+    border: groove;
+    padding: 10px;
+
+    background-color: lightgreen;
+
+
+    padding: 25px;
+    border: solid;
+    text-align: center;
+    display: block;
+}
+
+.bookname
+{
+
+    background-color: white;
+    padding: 36px;
+    border: solid;
+    text-align: center;
+    display: block;
+
+    font-size: 25px;
+}
+
+.chapters
+{
+
+    font-size: 25px;
+    background-color: white;
+    margin-top: -25px;
+    padding: 15px;
+    border: solid;
+    border-width: 1px;
+
+}

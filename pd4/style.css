@@ -1,0 +1,71 @@
+/* The text NovelOne*/
+.head
+{
+    background-color: red;
+    text-align: right;
+    margin: 0px;
+    z-index: -1;
+
+
+
+}
+
+.head a
+{
+    text-decoration: none;
+
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.word
+{
+
+    color: white;
+
+    font-size: 50px;
+    padding: 50px;
+    letter-spacing: 15px;
+
+    position: relative;
+    margin:0px;
+}
+
+/* End of NovelOne*/
+
+/*Navigation bar*/
+
+#navigation ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightblue;
+}
+
+#navigation li
+{
+    font-size: 25px;
+    float:left
+}
+
+#navigation li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 20px;
+    text-decoration: none;
+}
+
+#navigation li a:hover
+{
+    background-color: lightgrey;
+}
+
+
+
+
+
+
