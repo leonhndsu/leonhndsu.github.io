@@ -19,4 +19,4 @@ I'm now putting texts wow wow wow wow
 
 <br/>
 
-[SPA2](https://leonhndsu.github.io/spa2/spa2.html)
+[SPA2](https://leonhndsu.github.io/spa2/spa2/spa2.html)
